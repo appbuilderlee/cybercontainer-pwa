@@ -1,0 +1,5 @@
+{
+  "name": "CyberContainer PWA",
+  "description": "A high-tech web container that allows users to inject HTML code and install it as a standalone PWA with custom icons.",
+  "requestFramePermissions": []
+}
